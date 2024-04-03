@@ -1,2 +1,1 @@
-# laravel-naukanews
-crud приложение на laravel
+CRUD приложение на laravel
